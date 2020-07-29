@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[12]:
-
+Assignment 1
 
 port1={21:'FTP',22:'SSh',23:'telnet',80:'http'}
 port2={}
@@ -10,8 +6,7 @@ port2.update({v:k for k,v in port1.items()})
 print(port2)
 
 
-# In[15]:
-
+Assignment 2
 
 list1=[(1,2),(3,4),(5,6),(4,5)]
 list2=[]
