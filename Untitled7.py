@@ -18,5 +18,13 @@ for i in range(len(list1)):
     list2.append(add(a,b))
 print(list2)
     
+
+Assignment 3
     
 
+list1=[(1,2,3),[1,2],['a','hit','less']]
+list2=[]
+for i in list1:
+    for j in i:
+        list2.append(j)
+print(list2)
